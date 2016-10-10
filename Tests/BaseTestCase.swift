@@ -26,6 +26,7 @@ import Alamofire
 import Foundation
 import XCTest
 
+///
 class BaseTestCase: XCTestCase {
     let timeout: TimeInterval = 30.0
 
